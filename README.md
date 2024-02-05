@@ -4,4 +4,4 @@ I wanted to take on a project that would allow me to practice these skills and h
 
 ### Screenshot
 
-![](./assets/screenshot.png)
+![](./Source/screenshot.png)
