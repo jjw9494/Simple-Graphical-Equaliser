@@ -1,4 +1,4 @@
-##Graphical Equaliser
+# Graphical Equaliser
 
 This was my first attempt at creating a fully realised application using C++. I began learning C++ as a way to better understand the lower level processes abstracted away in languages like Javascript and to understand different paradigms like Object Oriented and Functional programming, as well as concepts like memory management, pointers and classes.
 
